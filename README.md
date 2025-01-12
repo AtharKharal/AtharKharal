@@ -45,7 +45,7 @@ Feel free to connect with me or explore my repositories!
 ---
 
 ### Find Me Online
-- **Website**: (Add your personal/academic website link here)
+- [My Website: ](https://sites.google.com/view/atharkharal/)
 - **LinkedIn**: (Add your LinkedIn profile link here)
 - **Twitter**: (Optional if applicable)
 - **Email**: (Your email address for professional inquiries)
