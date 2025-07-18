@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile. I’m a Technical Writer and Documentation Engineer with a PhD in Mathematics and a strong foundation in data-driven programming, version-controlled documentation, and docs-as-code infrastructure. I specialize in transforming complex technical domains into clear, actionable, and version-aware documentation using tools like **AsciiDoc**, **Antora**, **Git**, **LaTeX**, and **Markdown**.
 
-## 🔍 Current Focus
+## 🔍 Work Focus
 
-My current work centers on building **multi-repo, multi-version documentation sites** using Antora. These sites replicate real-world enterprise documentation ecosystems such as Red Hat OpenShift. The objective is to model modular documentation workflows that are CI/CD-ready, Git-native, and easily scalable.
+My work centers on building **multi-repo, multi-version documentation sites** using Antora. These sites replicate real-world enterprise documentation ecosystems such as Red Hat OpenShift. The objective is to model modular documentation workflows that are CI/CD-ready, Git-native, and easily scalable.
 
 I am actively exploring:
 
