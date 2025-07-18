@@ -1,4 +1,4 @@
-# Dr. Athar Kharal — Technical Writer | DocOps Engineer | Documentation Specialist
+# Technical Writer | DocOps Engineer | Documentation Specialist
 
 Welcome to my GitHub profile. I’m a Technical Writer and Documentation Engineer with a PhD in Mathematics and a strong foundation in data-driven programming, version-controlled documentation, and docs-as-code infrastructure. I specialize in transforming complex technical domains into clear, actionable, and version-aware documentation using tools like **AsciiDoc**, **Antora**, **Git**, **LaTeX**, and **Markdown**.
 
