@@ -1,54 +1,56 @@
-# Welcome to My GitHub Profile! 👋
+# Dr. Athar Kharal — Technical Writer | DocOps Engineer | Documentation Specialist
 
-## About Me
-I am a PhD in Mathematics with extensive expertise in Applied Statistics, computer programming, and LaTeX. With a strong academic background and a passion for teaching and innovation, I focus on bridging the gap between theoretical concepts and practical applications. My goal is to empower students and professionals to excel in Mathematics and its modern applications.
+Welcome to my GitHub profile. I’m a Technical Writer and Documentation Engineer with a PhD in Mathematics and a strong foundation in data-driven programming, version-controlled documentation, and docs-as-code infrastructure. I specialize in transforming complex technical domains into clear, actionable, and version-aware documentation using tools like **AsciiDoc**, **Antora**, **Git**, **LaTeX**, and **Markdown**.
 
-## Areas of Expertise
-- **Mathematics**: Specializing in Applied Statistics, Design and Analysis of Algorithms, Machine Learning, and Cryptography.
-- **Programming**: Proficient in R, LaTeX, and Microsoft Excel. Experienced in teaching advanced computational techniques.
-- **Education**: Developing innovative curriculum designs for Mathematics education with a focus on industrial, teaching, and data-driven streams.
+## 🔍 Current Focus
 
-## Current Interests
-- **AI and Data Science**: Exploring natural language processing (NLP), machine learning for predictive analytics, and leveraging cloud services (AWS, Azure) for AI solutions.
-- **Quantum Computing**: Learning its mathematical foundations to address emerging challenges in computation.
-- **Outcome-Based Education (OBE)**: Enhancing learning outcomes through innovative teaching methods and curriculum alignment.
-- **Mathematics for Emerging Technologies**: Designing academic programs in areas like Network Mathematics, Industrial Mathematics, and EdTech.
+My current work centers on building **multi-repo, multi-version documentation sites** using Antora. These sites replicate real-world enterprise documentation ecosystems such as Red Hat OpenShift. The objective is to model modular documentation workflows that are CI/CD-ready, Git-native, and easily scalable.
 
-## Projects
-- **Educational Innovation**: Authoring a book to improve Mathematics teaching in Pakistan, addressing faculty training, admission strategies, and career placement.
-- **Student Empowerment**: Supervising projects like "Using Technology for Social Good" to tackle societal challenges in Southern Punjab, Pakistan.
-- **Beamer Presentations**: Creating professional-grade slides with high stylistic and functional quality for academic and professional purposes.
+I am actively exploring:
 
-## Research and Writing
-I am dedicated to reducing barriers to academic publishing and technical documentation:
-- Expert in reducing Turnitin similarity scores for LaTeX-based research papers.
-- Experienced in structuring content for academic, scientific, and technical audiences.
+- Component-based technical documentation in distributed repositories
+- GitHub Actions and CI pipelines for doc automation
+- Developer-oriented authoring environments using VS Code, YAML, and scripting
+- Integrating AsciiDoc with scientific writing (LaTeX, R, Markdown)
 
-## Open Source Goals
-- Develop Moodle plugins and contribute to Moodle development to enhance online education platforms.
-- Share innovative LaTeX templates for academic and professional use.
-- Collaborate on AI-powered tools for education, including automated assessment systems.
+## 🚀 Tech Stack
 
-## Fun Facts
-- A lifelong learner, I am currently diving into **Finnish** as part of my interest in global educational practices.
-- I teach algorithmic concepts using graph theory, machine learning, and modern AI methods.
-- Passionate about making Mathematics accessible and relevant for all, from aspiring teachers to industry professionals.
+| Domain           | Tools / Technologies                                                   |
+|------------------|------------------------------------------------------------------------|
+| Authoring        | AsciiDoc, LaTeX, Markdown, MS Word (advanced styling and structure)     |
+| Publishing       | Antora, Asciidoctor, Pandoc                                             |
+| Version Control  | Git, GitHub, Git CLI, GitHub Actions                                    |
+| DocOps           | CI/CD workflows, YAML automation, modular doc builds                    |
+| Programming      | R (data pipelines & plots), Python (scripts), Bash/Pwsh                 |
+| Visualization    | ggplot2, Excel (advanced), Mermaid, PlantUML                            |
 
-## Let's Collaborate!
-I’m open to:
-- Collaborating on educational technology projects.
-- Contributing to AI automation for education and industry.
-- Helping researchers with LaTeX, academic writing, and project design.
+## 📂 Featured Repositories
 
-Feel free to connect with me or explore my repositories!
+### [`openshift-docs-site`](https://github.com/YourGitHubUsername/openshift-docs-site)
+> A full-scale Antora documentation site built locally with three component repositories (`ocp-security-docs`, `ocp-networking-docs`, `openshift-docs`). Demonstrates multi-version support, Git-based content sourcing, and UI customization.
+
+### [`asciidoc-playground`](https://github.com/YourGitHubUsername/asciidoc-playground)
+> A curated set of AsciiDoc experiments with exhaustive commenting. Useful for LaTeX authors transitioning to semantic, Git-native documentation workflows.
+
+### [`docops-snippets`](https://github.com/YourGitHubUsername/docops-snippets)
+> A working collection of GitHub Actions for documentation pipelines, bash utilities, YAML recipes, and Antora automation.
+
+## 🎓 Background
+
+Before transitioning into the technical documentation domain, I served in the **Pakistan Air Force** (retired July 2020), where I worked closely with aerospace engineers, managed aviation records, and served as a registrar with deep involvement in documentation, audit compliance, and ISO 9001 systems. I bring with me a rigorous documentation ethos rooted in precision, traceability, and domain fluency.
+
+## 🌍 Availability
+
+I am open to **remote**, **on-site**, or **contract-based** documentation roles in:
+
+- Europe (Finland, Germany, Netherlands)
+- North America (USA, Canada)
+- Global remote-first teams
+
+If you're seeking a technically fluent writer who understands developer workflows, Git ecosystems, and scalable documentation architectures—let’s connect.
 
 ---
 
-### Find Me Online
-- [My Website: ](https://sites.google.com/view/atharkharal/)
-- **LinkedIn**: (Add your LinkedIn profile link here)
-- **Twitter**: (Optional if applicable)
-- **Email**: (Your email address for professional inquiries)
-
----
-⭐ **Remember to star my repositories if you find them helpful!** ⭐
+📫 [View my LinkedIn profile](https://www.linkedin.com/in/your-link-here)  
+📧 Contact: your.email@example.com  
+📍 Currently based in Pakistan; relocating to Finland on a Business Visa  
