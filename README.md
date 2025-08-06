@@ -26,13 +26,13 @@ I am actively exploring:
 
 ## 📂 Featured Repositories
 
-### [`openshift-docs-site`](https://github.com/YourGitHubUsername/openshift-docs-site)
+### [`openshift-docs-site`](https://github.com/AtharKharal/openshift-docs-site)
 > A full-scale Antora documentation site built locally with three component repositories (`ocp-security-docs`, `ocp-networking-docs`, `openshift-docs`). Demonstrates multi-version support, Git-based content sourcing, and UI customization.
 
-### [`asciidoc-playground`](https://github.com/YourGitHubUsername/asciidoc-playground)
+### [`asciidoc-playground`](https://github.com/AtharKharal/asciidoc-playground)
 > A curated set of AsciiDoc experiments with exhaustive commenting. Useful for LaTeX authors transitioning to semantic, Git-native documentation workflows.
 
-### [`docops-snippets`](https://github.com/YourGitHubUsername/docops-snippets)
+### [`docops-snippets`](https://github.com/AtharKharal/docops-snippets)
 > A working collection of GitHub Actions for documentation pipelines, bash utilities, YAML recipes, and Antora automation.
 
 ## 🎓 Background
