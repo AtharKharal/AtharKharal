@@ -18,7 +18,7 @@ I am actively exploring:
 | Domain           | Tools / Technologies                                                   |
 |------------------|------------------------------------------------------------------------|
 | Authoring        | AsciiDoc, LaTeX, Markdown, MS Word (advanced styling and structure)     |
-| Publishing       | Antora, Asciidoctor, Pandoc                                             |
+| Publishing       | MkDocs, Docusurus, Antora, Asciidoctor, Pandoc                          |
 | Version Control  | Git, GitHub, Git CLI, GitHub Actions                                    |
 | DocOps           | CI/CD workflows, YAML automation, modular doc builds                    |
 | Programming      | R (data pipelines & plots), Python (scripts), Bash/Pwsh                 |
