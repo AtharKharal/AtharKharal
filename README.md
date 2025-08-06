@@ -51,6 +51,7 @@ If you're seeking a technically fluent writer who understands developer workflow
 
 ---
 
-📫 [View my LinkedIn profile](https://www.linkedin.com/in/your-link-here)  
-📧 Contact: your.email@example.com  
+📫 [View my LinkedIn profile](https://www.linkedin.com/in/AtharKharal)
+📫 [View my Portfolio](https://athar-techwriter.vercel.app)
+📧 Contact: atharkharal@gmail.com  
 📍 Currently based in Pakistan; relocating to Finland on a Business Visa  
