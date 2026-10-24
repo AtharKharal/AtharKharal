@@ -1,60 +1,73 @@
-# Data Scientist | Technical Writer | DocOps Engineer
+# Codebase Intelligence | Software Economics | Technical Due Diligence
 
-Welcome to my GitHub profile. I’m a Developers Focused Documentation Systems Architect. With a PhD in Mathematics and a strong foundation in data-driven programming, version-controlled documentation, and docs-as-code infrastructure. I specialize in transforming complex technical domains into clear, actionable, and version-aware documentation using tools like **Zensical**, **Antora**, **Git**, **LaTeX**, **Language Server Protocol** and **MCPs**.
+Welcome to my GitHub profile.
 
-## 🔍 Work Focus
+I work at the intersection of **applied mathematics, software engineering, data analytics, and technology due diligence (TDD)**. With a PhD in Mathematics and a background in data-driven programming, I focus on designing advanced algorithms, analytical systems, and quantitative models that turn complex software repositories into structured, traceable, decision-ready intelligence.
 
-My work centers on building **multi-repo, multi-version documentation sites** using Zensical and Antora. These sites replicate real-world enterprise documentation ecosystems such as Red Hat OpenShift. The objective is to model modular documentation workflows that are CI/CD-ready, Git-native, and easily scalable.
+My work spans **codebase intelligence, software analytics and metrics, technical risk assessment, remediation economics, and financial modelling for software assets**. I am particularly interested in connecting technical evidence to economic consequences: understanding not only how a software system is structured, but also where its risks lie, what remediation may cost, and how these findings inform acquisition and investment decisions.
 
-I am actively exploring:
+I also design developer-focused documentation systems that make complex technical knowledge modular, version-aware, maintainable, and reproducible.
 
-- Component-based technical documentation in distributed repositories
-- GitHub Actions and CI pipelines for doc automation
-- Developer-oriented authoring environments using VS Code, YAML, and scripting
-- Integrating AsciiDoc with scientific writing (LaTeX, R, Markdown)
+## Areas of Focus
 
-## 🚀 Tech Stack
+- **Codebase Intelligence & Advanced Algorithms:** Repository analysis, structural relationships, dependency and coupling analysis, complexity metrics, and algorithmic approaches to software assessment.
+- **Technology Due Diligence:** Evidence-driven evaluation of software architecture, technical debt, security, dependencies, testing, maintainability, intellectual property signals, and engineering continuity.
+- **Software Economics & Financial Modelling:** Translating technical findings into remediation estimates, risk economics, scenario analysis, and transaction-relevant financial assessments.
+- **Data Analytics & Reproducible Systems:** Structured data pipelines, quantitative analysis, evidence lineage, automated reporting, and reproducible analytical workflows.
+- **Documentation Systems Engineering:** Multi-repository, multi-version documentation architectures, docs-as-code, CI/CD automation, and developer-oriented authoring environments.
 
-| Domain           | Tools / Technologies                                                   |
-|------------------|------------------------------------------------------------------------|
-| Authoring        | AsciiDoc, LaTeX, Markdown, MS Word (advanced styling and structure)     |
-| Publishing       | MkDocs, Docusurus, Antora, Asciidoctor, Pandoc                          |
-| Version Control  | Git, GitHub, Git CLI, GitHub Actions                                    |
-| DocOps           | CI/CD workflows, YAML automation, modular doc builds                    |
-| Programming      | R (data pipelines & plots), Python (scripts), Bash/Pwsh                 |
-| Visualization    | ggplot2, Excel (advanced), Mermaid, PlantUML                            |
+## Technical Toolkit
 
-## 📂 Featured Repositories
+| Domain | Tools and Technologies |
+|---|---|
+| Programming & Analysis | Python, R, Bash, PowerShell, SQL |
+| Mathematical & Scientific Computing | LaTeX, statistical analysis, algorithm design, quantitative modelling |
+| Software Intelligence | Git, GitHub, repository analysis, software metrics, dependency and architecture analysis |
+| Documentation Engineering | AsciiDoc, Markdown, MkDocs, Antora, Zensical, Docusaurus, Pandoc |
+| Automation & Integration | GitHub Actions, YAML, CI/CD, Language Server Protocol (LSP), Model Context Protocol (MCP) |
+| Reporting & Visualization | Microsoft Excel, ggplot2, Mermaid, PlantUML |
 
-### [`openshift-docs-site`](https://github.com/AtharKharal/openshift-docs-site)
-> A full-scale Antora documentation site built locally with three component repositories (`ocp-security-docs`, `ocp-networking-docs`, `openshift-docs`). Demonstrates multi-version support, Git-based content sourcing, and UI customization.
+## Featured Repositories
 
-### [`asciidoc-playground`](https://github.com/AtharKharal/asciidoc-playground)
-> A curated set of AsciiDoc experiments with exhaustive commenting. Useful for LaTeX authors transitioning to semantic, Git-native documentation workflows.
+### [openshift-docs-site](https://github.com/AtharKharal/openshift-docs-site)
 
-### [`docops-snippets`](https://github.com/AtharKharal/docops-snippets)
-> A working collection of GitHub Actions for documentation pipelines, bash utilities, YAML recipes, and Antora automation.
+A multi-component Antora documentation site assembled from three component repositories: `ocp-security-docs`, `ocp-networking-docs`, and `openshift-docs`. Demonstrates Git-based content sourcing, multi-version documentation, and documentation UI customization.
 
-## 🎓 Background
+### [asciidoc-playground](https://github.com/AtharKharal/asciidoc-playground)
 
-Before transitioning into the technical documentation domain, I served in the **Pakistan Air Force** (retired July 2020), where I worked closely with aerospace engineers, managed aviation records, and served as a registrar with deep involvement in documentation, audit compliance, and ISO 9001 systems. I bring with me a rigorous documentation ethos rooted in precision, traceability, and domain fluency.
+A collection of commented AsciiDoc experiments exploring semantic, structured, and version-controlled technical authoring, including concepts relevant to authors transitioning from LaTeX.
 
-## 🌍 Availability
+### [docops-snippets](https://github.com/AtharKharal/docops-snippets)
 
-I am open to **remote**, **on-site**, or **contract-based** documentation roles in:
+Reusable documentation automation assets, including GitHub Actions workflows, Bash utilities, YAML recipes, and Antora automation.
 
-- Europe (Finland, Germany, Netherlands)
-- North America (USA, Canada)
-- Global remote-first teams
+## Professional Background
 
-If you're seeking a technically fluent writer who understands developer workflows, Git ecosystems, and scalable documentation architectures—let’s connect.
+I retired from the **Pakistan Air Force in July 2020**, following a career involving work with aerospace engineers, aviation records, registration responsibilities, documentation, audit compliance, and ISO 9001 systems.
+
+This experience informs my approach to software intelligence and technical assessment: systematic evidence collection, traceability, disciplined analysis, and clear separation between observed facts and inferred conclusions.
+
+Combined with my doctoral training in mathematics and practical programming, it supports a quantitative, systems-oriented approach to complex technical problems.
+
+## Professional Interests
+
+I am interested in work and collaborations involving:
+
+- Software and codebase intelligence
+- Algorithm design for software analytics and metrics
+- Technology due diligence for mergers, acquisitions, and investments
+- Software technical-debt and remediation economics
+- Quantitative risk assessment and financial modelling
+- Documentation systems architecture and developer tooling
+
+I welcome opportunities with remote-first teams, technology consultancies, software investors, and organizations seeking rigorous analytical approaches to software assets.
 
 ---
 
-📫 [View my LinkedIn profile](https://www.linkedin.com/in/AtharKharal) 
+**LinkedIn:** https://www.linkedin.com/in/AtharKharal
 
-📫 [View my Portfolio](https://athar-techwriter.vercel.app)
+**Portfolio:** https://athar-techwriter.vercel.app
 
-📧 [Email](mailto:atharkharal@gmail.com)  
+**Email:** atharkharal@gmail.com
 
-📍 Currently based in Pakistan; relocating to Finland on a Business Visa  
+**Location:** Pakistan | Open to suitable international and remote opportunities
